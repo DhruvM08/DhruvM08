@@ -85,6 +85,8 @@ public class Dhruv {
 </td>
 </tr>
 </table>
+<br/>
+
 <!-- ═══════════════ STATS ═══════════════ -->
 ## 📊 GitHub Stats
 
