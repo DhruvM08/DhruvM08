@@ -42,40 +42,49 @@ public class Dhruv {
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 ## 🛠️ Tech Stack
 
-<div align="center">
-
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<br/>
 <img src="https://img.shields.io/badge/LANGUAGES-f97316?style=for-the-badge" alt="Languages"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript&theme=dark" alt="Languages"/>
-
-<br/><br/><br/>
-
+<br/><br/>
+</td>
+<td align="center" width="50%">
+<br/>
 <img src="https://img.shields.io/badge/FRAMEWORKS_%26_MESSAGING-f43f5e?style=for-the-badge" alt="Frameworks and Messaging"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=spring,react,nginx,kafka,rabbitmq&theme=dark" alt="Frameworks and Messaging"/>
-
-<br/><br/><br/>
-
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<br/>
 <img src="https://img.shields.io/badge/DATABASES-ec4899?style=for-the-badge" alt="Databases"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,elasticsearch&theme=dark" alt="Databases"/>
-
-<br/><br/><br/>
-
+<br/><br/>
+</td>
+<td align="center" width="50%">
+<br/>
 <img src="https://img.shields.io/badge/DEVOPS_%26_CLOUD-a855f7?style=for-the-badge" alt="DevOps and Cloud"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github&theme=dark" alt="DevOps and Cloud"/>
-
-<br/><br/><br/>
-
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<br/>
 <img src="https://img.shields.io/badge/MONITORING_%26_TOOLS-7c3aed?style=for-the-badge" alt="Monitoring and Tools"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=grafana,prometheus,idea,postman&theme=dark" alt="Monitoring and Tools"/>
-
-</div>
-
-<br/>
-
+<br/><br/>
+</td>
+</tr>
+</table>
 <!-- ═══════════════ STATS ═══════════════ -->
 ## 📊 GitHub Stats
 
