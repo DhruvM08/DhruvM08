@@ -81,11 +81,11 @@ public class Dhruv {
 
 <div align="left">
 
-<img align="right" width="367" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvm08&layout=donut-vertical&langs_count=5&hide=html,css&theme=midnight-purple&hide_border=true" alt="Top languages"/>
+<img align="right" width="334" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvm08&layout=donut-vertical&langs_count=5&hide=html,css&theme=midnight-purple&hide_border=true" alt="Top languages"/>
 
-<img width="538" src="https://github-readme-stats.vercel.app/api?username=dhruvm08&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img width="490" src="https://github-readme-stats.vercel.app/api?username=dhruvm08&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
 <br/>
-<img width="538" src="https://streak-stats.demolab.com/?user=dhruvm08&theme=midnight-purple&hide_border=true&card_width=495&card_height=205" alt="GitHub streak"/>
+<img width="490" src="https://streak-stats.demolab.com/?user=dhruvm08&theme=midnight-purple&hide_border=true&card_width=495&card_height=205" alt="GitHub streak"/>
 
 </div>
 
