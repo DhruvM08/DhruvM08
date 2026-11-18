@@ -9,8 +9,8 @@
 
 <a href="https://leetcode.com/u/NdS8tfhokH/"><img src="https://img.shields.io/badge/LeetCode-Profile-f97316?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1b2e"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/dhruvm08"><img src="https://img.shields.io/badge/GitHub-dhruvm08-ec4899?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b2e"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/dhruv-mandaliya-483167300/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b2e"/></a>
-
+<a href="https://www.linkedin.com/in/dhruv-mandaliya-483167300/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b2e"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:dhruvmandaliya05@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-f43f5e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b2e"/></a>
 </div>
 
 <br/>
