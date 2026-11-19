@@ -1,9 +1,9 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:f97316,100:7c3aed&height=220&section=header&text=Dhruv%20Mandaliya&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descAlignY=62&descSize=20" width="100%" alt="Dhruv Mandaliya header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:f97316,100:7c3aed&height=220&section=header&text=Dhruv%20Mandaliya&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20%7C%20MERN%20Stack%20Developer&descAlignY=62&descSize=20" width="100%" alt="Dhruv Mandaliya header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=640&height=45&lines=Building+scalable+backends+with+Spring+Boot;Event-driven+systems+%7C+Kafka+%2B+RabbitMQ;Containers%2C+Kubernetes+%26+Cloud+on+Azure;Turning+coffee+into+clean+APIs+%E2%98%95" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=640&height=45&lines=Building+scalable+backends+with+Spring+Boot;MERN+Stack%3A+MongoDB+%7C+Express+%7C+React+%7C+Node;Creating+REST+APIs+with+Node.js+%26+Express.js;Event-driven+systems+%7C+Kafka+%2B+RabbitMQ;Containers%2C+Kubernetes+%26+Cloud+on+Azure;Turning+coffee+into+clean+APIs+%E2%98%95" alt="Typing animation"/>
 
 <br/><br/>
 
@@ -21,15 +21,16 @@
 ```java
 public class Dhruv {
 
-    String role     = "Java Full Stack Developer";
-    String[] stack  = {"Spring Boot", "React", "MySQL", "MongoDB", "Redis"};
+    String role     = "Java Full Stack & MERN Stack Developer";
+    String[] stack  = {"Spring Boot", "React", "Node.js", "Express.js", "MySQL", "MongoDB", "Redis"};
+    String[] mern   = {"MongoDB", "Express.js", "React", "Node.js"};
     String[] infra  = {"Docker", "Kubernetes", "Kafka", "Azure"};
     String focus    = "Microservices, system design & DSA";
 
     public void dailyRoutine() {
         while (alive) {
-            learn();   // Spring Boot & system design
-            build();   // full-stack projects
+            learn();   // Spring Boot, Node.js & system design
+            build();   // full-stack projects (Java + MERN)
             solve();   // LeetCode
             ship();    // Docker, Kubernetes, Azure
         }
@@ -55,7 +56,7 @@ public class Dhruv {
 <br/>
 <img src="https://img.shields.io/badge/FRAMEWORKS_%26_MESSAGING-f43f5e?style=for-the-badge" alt="Frameworks and Messaging"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=spring,react,nginx,kafka,rabbitmq&theme=dark" alt="Frameworks and Messaging"/>
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,nginx,kafka,rabbitmq&theme=dark" alt="Frameworks and Messaging"/>
 <br/><br/>
 </td>
 </tr>
